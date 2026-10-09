@@ -1,0 +1,5 @@
+DECLARE @t AS DATETIME2 = SYSDATETIME();
+
+EXECUTE dbo.sp_Consolidate_Financial_Cube ;
+
+SELECT DATEDIFF(MILLISECOND, @t, SYSDATETIME()) AS runtime_ms;

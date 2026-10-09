@@ -1,0 +1,25 @@
+{
+  "name": "Finance Pastel Slate",
+  "dataColors": [
+    "#475569",
+    "#94A3B8",
+    "#81C784",
+    "#E57373",
+    "#64B5F6",
+    "#FFB74D",
+    "#4DB6AC",
+    "#BA68C8"
+  ],
+  "background": "#F4F6F8",
+  "foreground": "#0F172A",
+  "tableAccent": "#475569",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "outspace": [{ "color": { "solid": { "color": "#F4F6F8" } } }],
+        "background": [{ "show": true, "color": { "solid": { "color": "#FFFFFF" } } }],
+        "border": [{ "show": true, "color": { "solid": { "color": "#E2E8F0" } }, "radius": 4 }]
+      }
+    }
+  }
+}

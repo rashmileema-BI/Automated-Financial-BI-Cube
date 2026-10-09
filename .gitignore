@@ -1,0 +1,13 @@
+﻿# Power BI temporary lock files
+*.pbix.temp
+*.pbit.temp
+
+# Operating system metadata
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# SQL Server local backups or log dumps
+*.bak
+*.ldf
+*.mdf
