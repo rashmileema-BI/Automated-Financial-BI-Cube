@@ -1,5 +1,3 @@
-@"
-
 \# Multi-Entity Financial Variance \& Consolidation Analytics Platform
 
 
